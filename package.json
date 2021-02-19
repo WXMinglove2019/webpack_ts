@@ -1,0 +1,29 @@
+{
+  "name": "webpack_ts",
+  "version": "1.0.0",
+  "description": "使用webpack打包ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "XM",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.1.0",
+    "ts-loader": "^8.0.17",
+    "typescript": "^4.1.5",
+    "webpack": "^5.22.0",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WXMinglove2019/webpack_ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WXMinglove2019/webpack_ts/issues"
+  },
+  "homepage": "https://github.com/WXMinglove2019/webpack_ts#readme"
+}
